@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "editlink",
+    "prism",
+    "-highlight",
+    "splitter"
+  ],
+
+  "pluginsConfig": {
+    "editlink": {
+    	"base": "https://github.com/fifiteen82726/test_gitbook",
+      "repo": "fifiteen82726/test_gitbook",
+      "branch": "master"
+    }
+  }
+}
